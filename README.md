@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Financial Records API
 
 This is a RESTful API for managing personal financial records. Users can record income and expenses, retrieve transactions, and get summaries by category or time period.
@@ -144,3 +145,6 @@ The SQLite database (`database.db`) is automatically created if it doesn't exist
 
 ### Getting Summary
 ![GET summary](./screenshots/get_summary.png)
+=======
+# floww-ai-assignment-
+>>>>>>> 08b652170353f74fe809b392cdba9aaa52e41134
